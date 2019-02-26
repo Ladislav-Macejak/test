@@ -16,7 +16,7 @@ OUTPUT
 02/26/2019  02:45 PM                27 r.md
 02/26/2019  02:51 PM    <DIR>          win10-x64
                6 File(s)         10,242 bytes
-               3 Dir(s)   1,838,305,280 bytes free
+               3 Dir(s)   1,838,301,184 bytes free
 
 ----------
 ERRORS
