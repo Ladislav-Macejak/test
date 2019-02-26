@@ -1,7 +1,66 @@
-dafs
+ipconfig
 --------
 OUTPUT
 
+Windows IP Configuration
+
+
+Ethernet adapter vEthernet (DockerNAT):
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 10.0.75.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : home
+   IPv6 Address. . . . . . . . . . . : 2a02:ab04:138:c00:3827:ea79:938:f8ae
+   Temporary IPv6 Address. . . . . . : 2a02:ab04:138:c00:3009:1ef6:c698:1d11
+   Link-local IPv6 Address . . . . . : fe80::3827:ea79:938:f8ae%13
+   IPv4 Address. . . . . . . . . . . : 192.168.0.206
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::ae22:5ff:fe1c:d5e4%13
+                                       192.168.0.1
+
+Ethernet adapter VirtualBox Host-Only Network #3:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::5523:23bc:796f:5d1d%25
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::5d9b:2041:f91a:6c10%24
+   IPv4 Address. . . . . . . . . . . : 172.18.29.145
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter vEthernet (nat):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::453a:7314:4437:f5a3%12
+   IPv4 Address. . . . . . . . . . . : 172.25.192.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
 ----------
-ERRORS'dafs' is not recognized as an internal or external command,
-operable program or batch file.
+ERRORS
