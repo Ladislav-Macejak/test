@@ -6,3 +6,11 @@ test output
 ----------
 ERRORS
 test error
+============
+test.exe
+--------
+OUTPUT
+test output
+----------
+ERRORS
+test error
