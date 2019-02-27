@@ -6,7 +6,3 @@ test output
 ----------
 ERRORS
 test error
-============
-testadsfd.exe
-ERRORS
-The remote server returned an error: (404) Not Found.
