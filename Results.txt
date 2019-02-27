@@ -5,3 +5,10 @@ OUTPUT
 
 ----------
 ERRORS
+============whoami
+--------
+OUTPUT
+desktop-aefmjpp\coder
+
+----------
+ERRORS
