@@ -1,48 +1,7 @@
 ============
-calc.exe
+test.exe
 --------
 OUTPUT
-
+test output
 ----------
-ERRORS
-============
-whoami
---------
-OUTPUT
-desktop-aefmjpp\coder
-
-----------
-ERRORS
-============
-dir
---------
-OUTPUT
- Volume in drive P has no label.
- Volume Serial Number is 0D08-7A44
-
- Directory of P:\Dropper.NET\Dropper.NET\bin\Debug\netcoreapp2.1
-
-02/26/2019  01:48 PM    <DIR>          .
-02/26/2019  01:48 PM    <DIR>          ..
-02/27/2019  03:46 PM             1,033 Dropper.NET.deps.json
-02/27/2019  03:46 PM               154 Dropper.NET.runtimeconfig.json
-02/27/2019  03:46 PM               236 Dropper.NET.runtimeconfig.dev.json
-02/27/2019  03:51 PM            11,264 Dropper.NET.dll
-02/27/2019  03:51 PM             2,448 Dropper.NET.pdb
-02/26/2019  02:45 PM                27 r.md
-02/26/2019  02:51 PM    <DIR>          win10-x64
-02/27/2019  03:51 PM            27,648 calc.exe
-               7 File(s)         42,810 bytes
-               3 Dir(s)   1,760,256,000 bytes free
-
-----------
-ERRORS
-============
-adsfadsf
---------
-OUTPUT
-
-----------
-ERRORS'adsfadsf' is not recognized as an internal or external command,
-operable program or batch file.
-
+ERRORStest error
