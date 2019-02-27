@@ -4,4 +4,6 @@ test.exe
 OUTPUT
 test output
 ----------
-ERRORStest error
+ERRORS
+test error
+The remote server returned an error: (404) Not Found.
