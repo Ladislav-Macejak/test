@@ -1,7 +1,7 @@
-whoami
+
+============calc.exe
 --------
 OUTPUT
-desktop-aefmjpp\coder
 
 ----------
 ERRORS
